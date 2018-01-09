@@ -1,0 +1,5 @@
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad12\bin\Debug\zad12.exe.config
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad12\bin\Debug\zad12.exe
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad12\bin\Debug\zad12.pdb
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad12\obj\Debug\zad12.exe
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad12\obj\Debug\zad12.pdb
