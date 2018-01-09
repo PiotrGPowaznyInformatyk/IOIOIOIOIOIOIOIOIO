@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\ConsoleApp4\zad8\bin\Debug\zad8.exe.config
+C:\Users\student\Desktop\ConsoleApp4\zad8\bin\Debug\zad8.exe
+C:\Users\student\Desktop\ConsoleApp4\zad8\bin\Debug\zad8.pdb
+C:\Users\student\Desktop\ConsoleApp4\zad8\obj\Debug\zad8.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ConsoleApp4\zad8\obj\Debug\zad8.exe
+C:\Users\student\Desktop\ConsoleApp4\zad8\obj\Debug\zad8.pdb
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad8\bin\Debug\zad8.exe.config
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad8\obj\Debug\zad8.exe
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad8\obj\Debug\zad8.pdb
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad8\bin\Debug\zad8.exe
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad8\bin\Debug\zad8.pdb
