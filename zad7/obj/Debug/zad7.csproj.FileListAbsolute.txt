@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\ConsoleApp4\zad7\bin\Debug\zad7.exe.config
+C:\Users\student\Desktop\ConsoleApp4\zad7\bin\Debug\zad7.exe
+C:\Users\student\Desktop\ConsoleApp4\zad7\bin\Debug\zad7.pdb
+C:\Users\student\Desktop\ConsoleApp4\zad7\obj\Debug\zad7.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ConsoleApp4\zad7\obj\Debug\zad7.exe
+C:\Users\student\Desktop\ConsoleApp4\zad7\obj\Debug\zad7.pdb
