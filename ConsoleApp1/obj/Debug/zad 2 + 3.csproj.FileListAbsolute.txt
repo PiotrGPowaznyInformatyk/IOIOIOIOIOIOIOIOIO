@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp1\obj\Debug\zad 2 + 3.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
