@@ -1,0 +1,13 @@
+C:\Users\student\Desktop\ConsoleApp4\zad5\bin\Debug\zad5.exe.config
+C:\Users\student\Desktop\ConsoleApp4\zad5\bin\Debug\zad5.exe
+C:\Users\student\Desktop\ConsoleApp4\zad5\bin\Debug\zad5.pdb
+C:\Users\student\Desktop\ConsoleApp4\zad5\obj\Debug\zad5.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ConsoleApp4\zad5\obj\Debug\zad5.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ConsoleApp4\zad5\obj\Debug\zad5.exe
+C:\Users\student\Desktop\ConsoleApp4\zad5\obj\Debug\zad5.pdb
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad5\bin\Debug\zad5.exe.config
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad5\obj\Debug\zad5.exe
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad5\obj\Debug\zad5.pdb
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad5\bin\Debug\zad5.exe
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad5\bin\Debug\zad5.pdb
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad5\obj\Debug\zad5.csprojResolveAssemblyReference.cache
