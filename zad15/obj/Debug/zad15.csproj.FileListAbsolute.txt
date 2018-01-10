@@ -1,0 +1,6 @@
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad15\bin\Debug\zad15.exe.config
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad15\bin\Debug\zad15.exe
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad15\bin\Debug\zad15.pdb
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad15\obj\Debug\zad15.exe
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad15\obj\Debug\zad15.pdb
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\zad15\obj\Debug\zad15.csprojResolveAssemblyReference.cache
