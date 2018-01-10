@@ -1,0 +1,9 @@
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\imageLoader\bin\Debug\imageLoader.exe.config
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\imageLoader\bin\Debug\imageLoader.exe
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\imageLoader\bin\Debug\imageLoader.pdb
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\imageLoader\obj\Debug\imageLoader.csprojResolveAssemblyReference.cache
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\imageLoader\obj\Debug\imageLoader.Form1.resources
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\imageLoader\obj\Debug\imageLoader.Properties.Resources.resources
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\imageLoader\obj\Debug\imageLoader.csproj.GenerateResource.Cache
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\imageLoader\obj\Debug\imageLoader.exe
+C:\Users\Daro\Desktop\ConsoleApp4 — kopia\imageLoader\obj\Debug\imageLoader.pdb
